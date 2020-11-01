@@ -1,0 +1,9 @@
+.NotFound h1 {
+    display: inline-block;
+    text-align: center;
+}
+.NotFound .image{
+    padding-top: 1em;
+    text-align: center;
+    max-width: 100vw;
+}

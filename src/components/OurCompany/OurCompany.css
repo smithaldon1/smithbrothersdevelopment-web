@@ -1,0 +1,11 @@
+.Company .lander {
+    padding: 5em 0;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.Company .lander h1 {
+    font-weight: 600;
+}
+.Company .lander p {
+    color: #999999;
+}
